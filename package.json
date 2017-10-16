@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "\"#Hola Mundo\"",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfajardo/helloworld.git"
+  },
+  "author": "Vicente Fajardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfajardo/helloworld/issues"
+  },
+  "homepage": "https://github.com/vfajardo/helloworld#readme"
+}
